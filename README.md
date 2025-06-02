@@ -1,8 +1,9 @@
 # How to setup Selenium in pycharm 
 # Using to python
 # Step 1: install to pycharm in PC
-# Step 2: Create and Activate Virtual Environment on Windows in terminal
-python -m venv venv ,
+# Step 2: Create a Virtual Environment on Windows on terminal
+python -m venv venv 
+
 venv\Scripts\activate
 # Step 3: Setup to Selenium Package in pycharm
 pip install selenium
